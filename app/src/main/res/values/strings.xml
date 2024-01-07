@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokesApp</string>
+    <string name="button_next_joke_text">Next Joke</string>
+    <string name="button_quit_text">Quit</string>
+</resources>
